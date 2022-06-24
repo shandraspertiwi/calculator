@@ -49,3 +49,10 @@ body {
     background:  #6dbfec;
     color: #f0fdff;
 }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 20px;
+}
