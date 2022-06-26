@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-h1 {
-    margin: 5%;
-    text-indent: 10%;
-}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -15,7 +11,7 @@ body {
     padding: 10px 20px;
     background-color: #035e8f;
     border: 1px solid #035e8f;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .flex-container-column {
